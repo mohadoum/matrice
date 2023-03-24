@@ -1,0 +1,6 @@
+[class*="row"]{
+    overflow: scroll;
+}
+.cent{
+    text-align: center;
+}
