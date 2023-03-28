@@ -18,6 +18,6 @@ This matrix calculator allow you to:
 ### 2. Using voice control  
 ![**Demo of the app**](https://drive.google.com/uc?id=1GH5Xz_HMN8mhwJUmLvgvoapTC0sTgmnZ)  
 # Authors  
-- **Mohammed THIANDOUM**, @mohadoum, Software Engineer  
+- **Mohammed THIANDOUM**, @mohadoum, Software Engineer, thiandoummohammed@gmail.com  
 - Project date: 2018  
 ***Thanks for reading***
