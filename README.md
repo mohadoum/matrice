@@ -14,8 +14,10 @@ This matrix calculator allow you to:
 - ![**PHP**](https://skills.thijs.gg/icons?i=php) **PHP**
 # App Demo  
 ### 1. Reversing a matrice  
-![**Demo of the app**](https://drive.google.com/uc?id=17Ku4u3Mt_CQRhengI7lZ6DLF5eyM78TL)  
-### 2. Add or multiply two matrix
+![**Demo of the app**](https://drive.google.com/uc?id=1RbkSK38RurvjViUUPrVIv4qfcC_SL_ro)  
+### 2. Using voice control  
+![**Demo of the app**](https://drive.google.com/uc?id=1GH5Xz_HMN8mhwJUmLvgvoapTC0sTgmnZ)  
+### 3. Add or multiply two matrix
 # Authors  
 - **Mohammed THIANDOUM**, @mohadoum, Software Engineer  
 - Project date: 2018  
