@@ -11,7 +11,7 @@ This matrix calculator allow you to:
 - ![**HTML**](https://skills.thijs.gg/icons?i=html) **HTML**  
 - ![**CSS**](https://skills.thijs.gg/icons?i=css) **CSS**  
 - ![**Javascript**](https://skills.thijs.gg/icons?i=js) **Javascript**  
-- ![**PHP**](https://skills.thijs.gg/icons?i=php) **PHP**
+- ![**Javascript**](https://skills.thijs.gg/icons?i=js) **Annyang** 
 # App Demo  
 ### 1. Reversing a matrice  
 ![**Demo of the app**](https://drive.google.com/uc?id=1RbkSK38RurvjViUUPrVIv4qfcC_SL_ro)  
