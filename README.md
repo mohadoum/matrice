@@ -3,10 +3,10 @@ Here we present you a program performing Matrix calculations. Simple ones are ad
 
 # Features of the program  
 This matrix calculator allow you to:  
-- *add* two matrix  
-- *multiply* two matrix  
-- *reverse* a matrice  
-- Enable *voice* to use the calculator  
+- **add** two matrix  
+- **multiply** two matrix  
+- **reverse** a matrice  
+- Enable **voice** to use the calculator  
 # Technologies used in program  
 - ![**HTML**](https://skills.thijs.gg/icons?i=html) **HTML**  
 - ![**CSS**](https://skills.thijs.gg/icons?i=css) **CSS**  
@@ -17,7 +17,6 @@ This matrix calculator allow you to:
 ![**Demo of the app**](https://drive.google.com/uc?id=1RbkSK38RurvjViUUPrVIv4qfcC_SL_ro)  
 ### 2. Using voice control  
 ![**Demo of the app**](https://drive.google.com/uc?id=1GH5Xz_HMN8mhwJUmLvgvoapTC0sTgmnZ)  
-### 3. Add or multiply two matrix
 # Authors  
 - **Mohammed THIANDOUM**, @mohadoum, Software Engineer  
 - Project date: 2018  
